@@ -39,6 +39,11 @@ The dataset used for this dashboard was a structured Excel file containing:
 ![Sales Dashboard Preview](e4889a2b-c368-4249-8cf4-15973091aca9.png)
 
 
+## Demo
+
+[Sales Dashboard](https://imgur.com/plAbs5N)
+
+
 ## How to Use
 
 1. Download the `.pbix` file from this repository
